@@ -1,6 +1,8 @@
 # polylabel.scala
 A fast algorithm for finding the pole of inaccessibility of a polygon
 
+![](https://raw.githubusercontent.com/ziyasal/polylabel/master/misc/img.png)
+
 ## Sample Code
 
 ```scala
